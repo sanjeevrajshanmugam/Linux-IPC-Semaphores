@@ -205,6 +205,8 @@ $ ./sem.o
 
 
 $ ipcs
+
+
 ![image](https://github.com/sanjeevrajshanmugam/Linux-IPC-Semaphores/assets/151383137/a8ff7f12-7d8f-4162-82a2-096de8bba9d9)
 
 
